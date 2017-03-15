@@ -1,0 +1,7 @@
+#Thu Nov 24 10:41:03 CET 2016
+base.0=C\:\\proyectos2017\\Tema4\\GesturesVelocidad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_761812f4efe95d6348fe59352ce12193a1d38ea5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\proyectos2017\\Tema4\\GesturesVelocidad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a057b6dd9cdf0c859596cb3c846770101c8525f4\\classes.dex
+base.1=C\:\\proyectos2017\\Tema4\\GesturesVelocidad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a057b6dd9cdf0c859596cb3c846770101c8525f4
+file.0=C\:\\proyectos2017\\Tema4\\GesturesVelocidad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_761812f4efe95d6348fe59352ce12193a1d38ea5\\classes.dex

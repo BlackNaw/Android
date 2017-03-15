@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="1"
+    android:rowCount="2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/relativeLayout">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/gridLayout">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/verde2"
+                android:id="@+id/imgGreen3"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:layout_row="2"
+                android:layout_column="0"
+                android:contentDescription="@string/verde_oscuro"
+                android:layout_marginTop="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:background="@drawable/verde1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/amarillo2"
+                android:id="@+id/imgYellow4"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:layout_row="2"
+                android:layout_column="1"
+                android:contentDescription="Amarillo Oscuro"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginTop="1.5dp"
+                android:background="@drawable/amarillo1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/azul2"
+                android:id="@+id/imgBlue2"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:layout_row="1"
+                android:layout_column="1"
+                android:contentDescription="@string/azul_oscuro"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginBottom="1.5dp"
+                android:background="@drawable/azul1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/rojo2"
+                android:id="@+id/imgRed1"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:layout_row="1"
+                android:layout_column="0"
+                android:contentDescription="@string/rojo_oscuro"
+                android:layout_marginRight="1.5dp"
+                android:layout_marginBottom="1.5dp"
+                android:background="@drawable/rojo1" />
+
+        </GridLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/central"
+            android:id="@+id/imgCenter5"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="89dp"
+            android:layout_marginTop="88dp"
+            android:contentDescription=""
+            android:layout_centerInParent="false"
+            android:layout_centerVertical="false"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="0">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/puntuacion"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="18sp"
+            android:layout_marginRight="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textPuntuacion"
+            android:textAlignment="viewStart"
+            android:layout_marginRight="20dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nivel"
+            android:gravity="right"
+            android:layout_gravity="right|end"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="18sp"
+            android:layout_marginRight="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtNivel" />
+    </TableRow>
+
+</GridLayout>

@@ -1,0 +1,7 @@
+#Fri Nov 04 12:46:59 CET 2016
+base.0=C\:\\Trabajo\\Android\\DosDedos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f5e6e38955b803000a52ea0ed4201e84f9379413
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Trabajo\\Android\\DosDedos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_79212c6bb4861c05e3451cc75b152015c7023c9f\\classes.dex
+base.1=C\:\\Trabajo\\Android\\DosDedos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_79212c6bb4861c05e3451cc75b152015c7023c9f
+file.0=C\:\\Trabajo\\Android\\DosDedos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f5e6e38955b803000a52ea0ed4201e84f9379413\\classes.dex

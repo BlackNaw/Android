@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AbrirBBDD</string>
+    <string-array name="estudios">
+        <item>ESO</item>
+        <item>DIV</item>
+        <item>BAC</item>
+        <item>FPB</item>
+        <item>FPGM</item>
+        <item>FPGS</item>
+    </string-array>
+</resources>

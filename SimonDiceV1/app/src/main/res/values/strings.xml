@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimonDice</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="nivel">Nivel:</string>
+    <string name="puntuacion">Puntuacion:</string>
+    <string name="azul_oscuro">Azul Oscuro</string>
+    <string name="rojo_oscuro">Rojo Oscuro</string>
+    <string name="verde_oscuro">Verde Oscuro</string>
+    <string name="perddido">YOU LOSE</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\proyectos2017\Tema4\GesturesNoInterfaceV\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7f33ba06c22c30f9ead41cbbb634d8bc00ea7319">
+        <dex dex="C:\proyectos2017\Tema4\GesturesNoInterfaceV\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_323276460d05f40c445affe8fff737917dd3c82e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proyectos2017\Tema4\GesturesNoInterfaceV\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df76b2885561eeb4bc5c4450e288d1946558e264">
+        <dex dex="C:\proyectos2017\Tema4\GesturesNoInterfaceV\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5f28f9c8822fce9594ee421532c4d93dabde3df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\adt\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\proyectos2017\Tema4\GesturesNoInterfaceV\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_07d721a4cec72687572a94e6463297d5e52d1fc4\classes.dex" />
+    </item>
+
+</items>

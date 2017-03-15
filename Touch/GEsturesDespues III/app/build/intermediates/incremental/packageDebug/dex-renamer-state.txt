@@ -1,0 +1,7 @@
+#Thu Nov 24 10:12:58 CET 2016
+base.0=C\:\\proyectos2017\\Tema4\\GEsturesDespues III\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f000fa387fda1f57ccd70b4b82d5f4eed36006e7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\proyectos2017\\Tema4\\GEsturesDespues III\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ec67591902a508a76cb790d883cd95d3df53ba5\\classes.dex
+base.1=C\:\\proyectos2017\\Tema4\\GEsturesDespues III\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ec67591902a508a76cb790d883cd95d3df53ba5
+file.0=C\:\\proyectos2017\\Tema4\\GEsturesDespues III\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f000fa387fda1f57ccd70b4b82d5f4eed36006e7\\classes.dex

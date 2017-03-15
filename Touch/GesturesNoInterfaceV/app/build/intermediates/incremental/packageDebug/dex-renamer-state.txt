@@ -1,0 +1,7 @@
+#Thu Nov 24 10:16:56 CET 2016
+base.0=C\:\\proyectos2017\\Tema4\\GesturesNoInterfaceV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_323276460d05f40c445affe8fff737917dd3c82e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\proyectos2017\\Tema4\\GesturesNoInterfaceV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5f28f9c8822fce9594ee421532c4d93dabde3df0\\classes.dex
+base.1=C\:\\proyectos2017\\Tema4\\GesturesNoInterfaceV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5f28f9c8822fce9594ee421532c4d93dabde3df0
+file.0=C\:\\proyectos2017\\Tema4\\GesturesNoInterfaceV\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_323276460d05f40c445affe8fff737917dd3c82e\\classes.dex

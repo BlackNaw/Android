@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MockitoHorarioControl</string>
+    <string name="horario">Horario de grupo:</string>
+    <string name="grupo">Grupo:</string>
+    <string name="hora">Hora:</string>
+    <string name="dia">Día:</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Mártes</string>
+    <string name="miercoles">Miércoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="verHorario">Ver Horario</string>
+    <string name="editar">Editar</string>
+    <string name="editarEstudio">Editar estudios</string>
+    <string name="editarGrupo">Editar grupos</string>
+    <string name="editarMateria">Editar materias</string>
+
+    <string name="abbr">Abreviatura</string>
+    <string name="completo">Nombre Completo</string>
+
+    <string name="add">Añadir</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="save">Guardar</string>
+</resources>

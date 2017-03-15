@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\proyectos2017\Tema4\GEsturesDespues III\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e15191bd1b88ed9dc39e7158ed1daee67f6e5be">
+        <dex dex="C:\proyectos2017\Tema4\GEsturesDespues III\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f000fa387fda1f57ccd70b4b82d5f4eed36006e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\adt\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\proyectos2017\Tema4\GEsturesDespues III\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_07d721a4cec72687572a94e6463297d5e52d1fc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proyectos2017\Tema4\GEsturesDespues III\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="750b1f1a65af842dbad61f60edc11b0a4dc332ba">
+        <dex dex="C:\proyectos2017\Tema4\GEsturesDespues III\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ec67591902a508a76cb790d883cd95d3df53ba5\classes.dex" />
+    </item>
+
+</items>
